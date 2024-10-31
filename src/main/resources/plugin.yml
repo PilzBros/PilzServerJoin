@@ -1,0 +1,6 @@
+name: PilzServerJoin
+author: Livid_C0ffee
+version: 1.0
+description: Enter with style!
+main: com.pilzbros.serverjoin.PilzServerJoin
+commands:
