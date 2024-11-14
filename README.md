@@ -12,3 +12,4 @@ This is a lightweight Minecraft plugin that fires fireworks when a player joins 
 
 ## Legacy Links
 - [Spigot Page](https://www.spigotmc.org/resources/pilz-server-join.10293/)
+- [Bukkit Page](https://web.archive.org/web/20161217191612/https://dev.bukkit.org/projects/pilzserverjoin)
